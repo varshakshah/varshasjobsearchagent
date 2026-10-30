@@ -58,6 +58,7 @@ const STATUS_RANK = {
   'discarded': 0,
   'rejected': 1,
   'evaluated': 2,
+  'speculative': 2,
   'applied': 3,
   'responded': 4,
   'assessment': 5,
